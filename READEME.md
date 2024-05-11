@@ -1,7 +1,12 @@
-# sistema de cadastro de usúario
-> status do projeto: em desenvolvimento
-para rodar o codigo do sistema de cadastro de usúario do laboratorio de informatica da FSA, voçe deve:
-
-```
-npm install react
-```
+# estrutura de README
+# título
+# Bandeiras (tipo de licença de programação, etc)
+# indice
+# descrição do projeto 
+# status do projeto 
+# funcionalidades e demostraçao de aplicação 
+# acesso ao projeto 
+# tecnologias utilizadas 
+# equipe
+# desenvolvimento de projeto 
+# licença
